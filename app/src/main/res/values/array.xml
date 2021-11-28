@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sx">
+        <item>Seleccione Genero:</item>
+        <item>Masculino</item>
+        <item>Femenino</item>
+    </string-array>
+
+    <string-array name="opciones">
+        <item>Seleccione Area</item>
+        <item>Ofensiva</item>
+        <item>Defensiva</item>
+    </string-array>
+
+    <string-array name="o0">
+        <item>No se ha seleccionado area</item>
+    </string-array>
+
+    <string-array name="o1">
+        <item>Seleccione una posicion</item>
+        <item>QB</item>
+        <item>WR</item>
+        <item>RB</item>
+        <item>C</item>
+    </string-array>
+
+    <string-array name="o2">
+        <item>Seleccione una posicion</item>
+        <item>R</item>
+        <item>CB</item>
+        <item>S</item>
+    </string-array>
+</resources>

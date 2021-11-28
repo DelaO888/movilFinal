@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1060606334408",
+    "project_id": "movilfinal-69e1f",
+    "storage_bucket": "movilfinal-69e1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060606334408:android:b72a9b36b295068931dcfd",
+        "android_client_info": {
+          "package_name": "com.example.blessflag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1060606334408-d68m7vmts5gvktav4ir6fd2c4souov1j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.blessflag",
+            "certificate_hash": "c2967796c5aa523a8d6de760a0bc4e9772ef62ad"
+          }
+        },
+        {
+          "client_id": "1060606334408-q3mvmqu386c7h74lihnjn0uc3bv683o6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxG6wFYmRg_RgRxwtSJPDYVhU3gpUGB9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1060606334408-q3mvmqu386c7h74lihnjn0uc3bv683o6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
